@@ -1,0 +1,5 @@
+Heroes Of Pymoli Data Analysis
+
+A population of 576 unique players was analyzed here. The population is comprised of 84% males and 14% females. Within this population, males and females on average make purchases of similar amounts. The most populous age group falls between 20-24, at 44.8%, followed by 15-19 and 25-29, at 18.6% and 13.4%, respectively.
+
+The most popular item was 'Final Critic', which was purchased 13 times, followed by 'Oathbreaker, Last Hope of the Breaking Storm', with 12 purchases. Those same two items were also the most profitable, at $59.99 and $50.76 in total purchase amounts respectively.
