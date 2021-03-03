@@ -36,7 +36,7 @@ This project uses Python Pandas to analyze data for a fantasy video game called 
 * Percentage and Count of Other / Non-Disclosed
 
 <p align="center">
-  <img src="Images/GenderDemographics.png" width="400">
+  <img src="Images/GenderDemographics.png" width="350">
 </p>
 
 ### Purchasing Analysis (Gender)
@@ -60,7 +60,7 @@ This project uses Python Pandas to analyze data for a fantasy video game called 
   * Average Purchase Total per Person by Age Group
 
 <p align="center">
-  <img src="Images/AgeDemographics.png" width="300">
+  <img src="Images/AgeDemographics.png" width="250">
 </p>
 
 ### Top Spenders
@@ -72,7 +72,7 @@ This project uses Python Pandas to analyze data for a fantasy video game called 
   * Total Purchase Value
 
 <p align="center">
-  <img src="Images/TopSpenders.png" width="400">
+  <img src="Images/TopSpenders.png" width="475">
 </p>
 
 ### Most Popular Items
@@ -85,7 +85,7 @@ This project uses Python Pandas to analyze data for a fantasy video game called 
   * Total Purchase Value
 
 <p align="center">
-  <img src="Images/MostPopularItems.png" width="400">
+  <img src="Images/MostPopularItems.png" width="600">
 </p>
 
 ### Most Profitable Items
@@ -98,7 +98,7 @@ This project uses Python Pandas to analyze data for a fantasy video game called 
   * Total Purchase Value
 
 <p align="center">
-  <img src="Images/MostProfitableItems.png" width="400">
+  <img src="Images/MostProfitableItems.png" width="600">
 </p>
 
 ---
