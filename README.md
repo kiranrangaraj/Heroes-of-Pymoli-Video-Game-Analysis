@@ -1,27 +1,22 @@
-# pandas-challenge
-Pandas Homework Assignment for Data Analytics Bootcamp - Trilogy Education, Vanderbilt University
+# Heroes of Pymoli Fantasy Game - Pandas Analysis
 
-# Pandas, Pandas, Pandas
+<p align="center">
+  <img src="Images/Fantasy.png" width="500">
+</p>
 
-## Background
+## Summary ##
 
-The data dive continues!
+This project uses Python Pandas to analyze data for a fantasy video game called Heroes of Pymoli. The game is free-to-play, like many others in its genre, but players are encouraged to purchase optional items that enhance their playing experience. Pandas allows for a breakdown of the game's purchasing data into meaningful insights. 
 
-Now, it's time to take what you've learned about Python Pandas and apply it to new situations. 
-
-## Heroes of Pymoli
-
-![Fantasy](Images/Fantasy.png)
-
-Congratulations! After a lot of hard work in the data munging mines, you've landed a job as Lead Analyst for an independent gaming company. You've been assigned the task of analyzing the data for their most recent fantasy game Heroes of Pymoli.
-
-Like many others in its genre, the game is free-to-play, but players are encouraged to purchase optional items that enhance their playing experience. As a first task, the company would like you to generate a report that breaks down the game's purchasing data into meaningful insights.
-
-Your final report should include each of the following:
+## Process ##
 
 ### Player Count
 
 * Total Number of Players
+
+<p align="center">
+  <img src="Images/PlayerCount.png" width="110">
+</p>
 
 ### Purchasing Analysis (Total)
 
@@ -30,11 +25,19 @@ Your final report should include each of the following:
 * Total Number of Purchases
 * Total Revenue
 
+<p align="center">
+  <img src="Images/PurchasingTotal.png" width="500">
+</p>
+
 ### Gender Demographics
 
 * Percentage and Count of Male Players
 * Percentage and Count of Female Players
 * Percentage and Count of Other / Non-Disclosed
+
+<p align="center">
+  <img src="Images/GenderDemographics.png" width="400">
+</p>
 
 ### Purchasing Analysis (Gender)
 
@@ -44,6 +47,10 @@ Your final report should include each of the following:
   * Total Purchase Value
   * Average Purchase Total per Person by Gender
 
+<p align="center">
+  <img src="Images/PurchasingGender.png" width="650">
+</p>
+
 ### Age Demographics
 
 * The below each broken into bins of 4 years (i.e. &lt;10, 10-14, 15-19, etc.)
@@ -52,6 +59,10 @@ Your final report should include each of the following:
   * Total Purchase Value
   * Average Purchase Total per Person by Age Group
 
+<p align="center">
+  <img src="Images/AgeDemographics.png" width="300">
+</p>
+
 ### Top Spenders
 
 * Identify the the top 5 spenders in the game by total purchase value, then list (in a table):
@@ -59,6 +70,10 @@ Your final report should include each of the following:
   * Purchase Count
   * Average Purchase Price
   * Total Purchase Value
+
+<p align="center">
+  <img src="Images/TopSpenders.png" width="400">
+</p>
 
 ### Most Popular Items
 
@@ -69,6 +84,10 @@ Your final report should include each of the following:
   * Item Price
   * Total Purchase Value
 
+<p align="center">
+  <img src="Images/MostPopularItems.png" width="400">
+</p>
+
 ### Most Profitable Items
 
 * Identify the 5 most profitable items by total purchase value, then list (in a table):
@@ -78,9 +97,24 @@ Your final report should include each of the following:
   * Item Price
   * Total Purchase Value
 
-As final considerations:
+<p align="center">
+  <img src="Images/MostProfitableItems.png" width="400">
+</p>
 
-* You must use the Pandas Library and the Jupyter Notebook.
-* You must submit a link to your Jupyter Notebook with the viewable Data Frames.
-* You must include a written description of three observable trends based on the data.
-* See [Example Solution](HeroesOfPymoli/HeroesOfPymoli_starter.ipynb) for a reference on expected format.
+---
+
+## Conclusions ##
+A population of 576 unique players was analyzed here. The population is comprised of 84% males and 14% females. Within this population, males and females on average make purchases of similar amounts. The most populous age group falls between 20-24, at 44.8%, followed by 15-19 and 25-29, at 18.6% and 13.4%, respectively.
+
+---
+
+The most popular item was 'Final Critic', which was purchased 13 times, followed by 'Oathbreaker, Last Hope of the Breaking Storm', with 12 purchases. 
+Those same two items were also the most profitable, at $59.99 and $50.76 in total purchase amounts respectively.
+
+## Technologies Used ##
+* Python - Pandas
+
+---
+
+## Author ##
+Kiran Rangaraj - LinkedIn: [@Kiran Rangaraj](https://www.linkedin.com/in/kiranrangaraj/)
