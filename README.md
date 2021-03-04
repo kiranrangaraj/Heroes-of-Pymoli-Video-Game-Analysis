@@ -111,6 +111,11 @@ Those same two items were also the most profitable, at $59.99 and $50.76 in tota
 
 ---
 
+## Data Source ##
+* [Purchase Data](https://github.com/kiranrangaraj/Heroes-of-Pymoli-Video-Game-Analysis/blob/master/Resources/purchase_data.csv)
+
+---
+
 ## Technologies Used ##
 * Python - Pandas
 
